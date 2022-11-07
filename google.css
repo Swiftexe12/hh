@@ -1,0 +1,42 @@
+#x1{color: blue;}
+#x2{color: red;}
+#x3{color: yellow;}
+#x4{color: blue;}
+#x5{color: green;}
+#x6{color: red}
+
+h1{margin: 200px 50px 0px 510px;
+    font-size: 60px;
+    font-family:'Josefin Sans', sans-serif;
+    padding: 0pxx;
+   }
+input[type=text]{border-width: 1px;
+                 width:40%;
+                 height: 40px;
+                 border-radius: 30px;
+                 border-color: rgba(39, 46, 46, 0.463);
+                 margin-left: 370;
+                 margin-top: 40px;
+                 margin-bottom: 30px;
+                 padding: 6px 39px;
+                 background-image:url("11.png") ;
+                 background-repeat: no-repeat;
+                 background-size: 3%;
+                 background-position:20px ;
+}
+input[type=submit]{width: 130px;
+                   height: 30px;
+                   border-width: 0px;
+                   border-radius: 4px;
+                    }
+#x7{margin-left: 500px;
+   }
+input[type=submit]:hover{border-width: 0.5px;
+                         border-color: rgba(37, 42, 42, 0.088);
+                         box-shadow: 0px 0px 1px;
+    
+}
+input[type=text]:hover{border-width: 1px;
+                       border-color: rgba(37, 42, 42, 0.088);
+                       box-shadow: 0px 0px 3px;
+  }
